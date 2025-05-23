@@ -74,14 +74,14 @@ Here's an example of running inference on two pairs of questions:
 ```bash
 aayushagarwal@Aayushs-MacBook-Air quora-similar-questions % python3 main.py --mode inference
 INFO:root:Using device: mps
-INFO:root:
-Question 1: How do I improve my coding skills?
-INFO:root:Question 2: What's the best way to learn programming?
+
+INFO:root:Question 1: How do I improve my coding skills?
+INFO:root:Question 2: \'s the best way to learn programming?
 INFO:root:Prediction: Similar
 INFO:root:Confidence: 61.44%
-INFO:root:
-Question 1: How do I improve my coding skills?
-INFO:root:Question 2: What's the weather like today?
+
+INFO:root:Question 1: How do I improve my coding skills?
+INFO:root:Question 2: Wha\'s the weather like today?
 INFO:root:Prediction: Different
 INFO:root:Confidence: 99.07%
 ```
