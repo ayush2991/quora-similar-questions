@@ -44,7 +44,7 @@ quora-similar-questions/
 ├── models/
 │   └── fine_tuned_quora_model/
 ├── logs/
-├── train.py
+├── main.py
 ├── requirements.txt
 └── README.md
 ```
