@@ -1,0 +1,9 @@
+datasets
+scikit-learn
+transformers[torch]
+torch
+numpy
+pandas
+accelerate
+sentence-transformers
+huggingface_hub[hf_xet]
