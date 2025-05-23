@@ -76,7 +76,7 @@ aayushagarwal@Aayushs-MacBook-Air quora-similar-questions % python3 main.py --mo
 INFO:root:Using device: mps
 
 INFO:root:Question 1: How do I improve my coding skills?
-INFO:root:Question 2: \'s the best way to learn programming?
+INFO:root:Question 2: What\'s the best way to learn programming?
 INFO:root:Prediction: Similar
 INFO:root:Confidence: 61.44%
 
